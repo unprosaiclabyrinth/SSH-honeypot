@@ -1,6 +1,6 @@
 # SSH key
 
-Generate a (RSA) SSH key pair to use with the honeypot server, and update private key path in the source code `honeypot.py`.
+Generate an RSA SSH key pair to use with the honeypot server, and update private key path in the source code `honeypot.py`.
 
 # Usage
 
